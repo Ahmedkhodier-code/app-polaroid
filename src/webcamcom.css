@@ -1,0 +1,18 @@
+  
+.webcamapp {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.webcamapp__container {
+	margin-top: 10px;
+	width: 500px;
+	height: 500px;
+	border: 1px solid #000;
+}
+
+.webcamapp__input {
+	margin-top: 10px;
+}

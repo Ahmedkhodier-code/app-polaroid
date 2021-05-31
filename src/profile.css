@@ -1,0 +1,53 @@
+.profile{
+    max-width: 500px;
+    margin-bottom: 45px;
+}
+
+.profile__header__image{
+    object-fit: contain;
+    width: 100%;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    
+}
+
+.profile__header__text{
+    font-weight: normal;
+    padding: 10px;
+
+}
+
+.profile__header__avatar{
+    object-fit: contain;
+    margin-right: 5px;
+}
+.profile__header{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.profile__commentsBox{
+    display: flex;
+    margin-top: 10px;
+    
+}
+
+.profile__input{
+    flex: 1;
+    padding: 1px;
+    border: none;
+    border:1px solid lightgrey;
+    margin-left: 5px;
+}
+
+.profile__button{
+    flex: 0;
+    border: none;
+    color: #6082a3;
+    padding: 10px;
+    
+}
+.butdel{
+margin-left: 57%;
+}

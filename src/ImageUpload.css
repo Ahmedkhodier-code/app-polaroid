@@ -1,0 +1,32 @@
+.ImageUpload{
+ display: flex;
+ flex-direction: column;
+ width: 550px;
+ padding: 10px;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 10px;
+ margin-bottom: 10px;
+ border-top: solid lightgrey;
+}
+
+.ImageUpload__progress{
+    width: 100%;
+    margin-bottom: 10px;
+}
+input{
+    margin-bottom: 10px;
+    height: 50px;
+}
+.webcamcss{
+    width: 100px;
+    height: 50px;
+}
+.getimg{
+    display: flex;
+    width: 80%;
+}
+ 
+.fileimg{
+    margin-top: 20px;
+}
